@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DelishMartDW" id="ED1B93B0-6B13-71AD-DC6B-F4C898BD7D0B" version="3.5">
+<createdBy>Amir</createdBy>
+<createdTime>2025-03-20 15:33:19 UTC</createdTime>
+<ownerDesignName>TP1_EX1_Design</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>ED1B93B0-6B13-71AD-DC6B-F4C898BD7D0B</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="64DD3616-6F6C-D3C8-CB94-9E7C2DCE3700">
+<designStoragePath>C:\DelishMart</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
