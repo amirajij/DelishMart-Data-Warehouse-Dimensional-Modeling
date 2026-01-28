@@ -24,10 +24,6 @@ The final design uses a **Star Schema** to ensure high performance in BI tools:
 * **Fact Tables:** Centralized metrics (Quantity, Total Price, Unit Cost).
 * **Dimension Tables:** Descriptive attributes (Product Category, Customer Location, Time Hierarchy).
 
-
-
-[Image of the ERD Diagram]
-
 ![DelishMart ERD](database_diagram.jpeg)
 
 ---
