@@ -1,4 +1,4 @@
-DelishMart - Data Warehouse Dimensional Modeling 📊
+DelishMart - Data Warehouse Dimensional Modeling
 
 This repository contains the first phase of the Business Intelligence project: the **Dimensional Modeling** of the DelishMart Data Warehouse. The goal was to transform operational requirements into a Star Schema optimized for analytical queries.
 
@@ -40,8 +40,8 @@ The final design uses a **Star Schema** to ensure high performance in BI tools:
 ---
 
 ## How to Explore
-1.  Check the `/sql` folder for the database creation script.
-2.  Open the `/docs` folder for the full technical report and high-resolution diagrams.
+1.  Check the `sql`  for the database creation script.
+2.  Open the `docs` folder for the full technical report and high-resolution diagrams.
 3.  The source model can be opened using **Oracle SQL Developer Data Modeler**.
 
 ---
